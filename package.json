@@ -1,0 +1,23 @@
+{
+  "name": "match-three-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caleblmyers/match-three-rpg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caleblmyers/match-three-rpg/issues"
+  },
+  "homepage": "https://github.com/caleblmyers/match-three-rpg#readme",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
